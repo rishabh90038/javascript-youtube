@@ -1,0 +1,3 @@
+//min max avg sum absolute type of discussion mainly playing with numbers happens in this setion.
+//if we want to use math properties in the javascript we use math..
+//console.log(Math.abs(-4))->outputs 4 so here we use match peroperties s thats why we use (Math.)
