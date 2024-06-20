@@ -32,3 +32,12 @@ const {takenBY: take}=cource  // here we changed the name we are calling the obj
 
 console.log(take) // previous it was cource["takeBy"] now it is take, known as destructuring
 
+// object is almost json but without any name
+
+{
+    "": ""
+    "": ""
+}
+
+// this is an example of json structure.
+
