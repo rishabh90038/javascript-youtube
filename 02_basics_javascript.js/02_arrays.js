@@ -1,0 +1,1 @@
+// more about array properties ,you can go through the array prperties on javascript tutorial.
